@@ -1,0 +1,17 @@
+.videos {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.videos h3 {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.videos div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+}

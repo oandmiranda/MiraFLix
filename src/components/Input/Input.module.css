@@ -1,0 +1,16 @@
+.input {
+    margin-bottom: 40px;
+}
+
+.input input {
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 1.3rem;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.315));
+    color: #ffffffb2;
+    outline: 0;
+}
+
+.input h2 {
+    margin-top: 10px;
+}

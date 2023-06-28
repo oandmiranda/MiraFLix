@@ -1,0 +1,18 @@
+
+.category {
+    display: flex;
+    flex-direction: column;
+}
+
+.category h2 {
+    padding-bottom: 20px;
+    font-size: 1.6.rem;
+}
+
+.category div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    padding-bottom: 54px;
+}
