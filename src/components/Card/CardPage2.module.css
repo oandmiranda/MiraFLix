@@ -1,5 +1,3 @@
-
-/* css do elemtento <Card /> da pagina HomeCategory */
 .card {
     display: flex;
     margin-top: 40px;
@@ -7,13 +5,13 @@
 
 .card img {
     border-radius: 9px;
-    width: 250px;
+    width: 240px;
     height: 160px;
     transition: transform 0.3s
 }
 
-.card img:hover {
-    transform: scale(1.4);
+ .card img:hover {
+    transform: scale(1.3);
     border-radius: 12px;
     box-shadow: 0 0 10px #222;
     animation-delay: 5s;

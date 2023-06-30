@@ -16,3 +16,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Estilizando a barra de rolagem */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Estilizando a área de fundo da barra de rolagem */
+::-webkit-scrollbar-track {
+  background-color: #000000;
+}
+
+/* Estilizando o elemento arrastado na barra de rolagem */
+::-webkit-scrollbar-thumb {
+  background-color: #f44336;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+/* Estilizando os botões de incremento e decremento da barra de rolagem */
+::-webkit-scrollbar-button {
+  background-color: #555;
+}
+
+/* Estilizando o canto da barra de rolagem */
+::-webkit-scrollbar-corner {
+  background-color: #f1f1f1;
+}

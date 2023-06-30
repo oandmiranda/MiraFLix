@@ -2,17 +2,21 @@
 .category {
     display: flex;
     flex-direction: column;
+    min-width: 280px;
+    max-width: 1300px;
+    margin: 0 auto;
 }
 
 .category h2 {
-    padding-bottom: 20px;
+    padding-top: 10px;
     font-size: 1.6.rem;
 }
 
 .category div {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
+    width: 100%;
     gap: 6px;
-    padding-bottom: 54px;
+    padding-bottom: 15px;
+    
 }

@@ -1,0 +1,14 @@
+
+/* css do elemtento <Card /> da pagina Search */
+.card {
+    display: flex;
+    margin-top: 40px;
+}
+
+.card img {
+    border-radius: 9px;
+    width: 250px;
+    height: 160px;
+    transition: transform 0.3s
+}
+

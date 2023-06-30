@@ -3,11 +3,11 @@ import styles from "./Category.module.css";
 import videos from "../../json/videos.json";
 
 export const categories = [
-    'Ação',
-    'Comédia',
-    'Ficção',
-    'Séries',
-    'Drama'
+    'AÇÃO',
+    'COMÉDIA',
+    'FICÇÃO',
+    'SÉRIES',
+    'DRAMA'
   ];
   
 export function filterCategory(id) {

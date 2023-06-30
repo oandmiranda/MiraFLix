@@ -6,9 +6,9 @@ const Carousel = ({ children }) => {
         className: "center",
         centerMode: true,
         infinite: true,
-        centerPadding: "60px",
-        slidesToShow: 3,
-        speed: 500
+        centerPadding: "341px",
+        slidesToShow: 2,
+        speed: 500,
       };
 
     return (

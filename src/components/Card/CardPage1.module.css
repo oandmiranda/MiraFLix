@@ -1,6 +1,4 @@
-
-/* css do elemtento <Card /> da pagina HomeCategory */
-.card {
+/*.card {
     display: flex;
     margin-top: 40px;
 }
@@ -12,7 +10,7 @@
     transition: transform 0.3s
 }
 
-.card img:hover {
+ .card img:hover {
     transform: scale(1.4);
     border-radius: 12px;
     box-shadow: 0 0 10px #222;
@@ -27,4 +25,4 @@
     100% {
       transform: scale(1.33);
     }
-  }
+  } */

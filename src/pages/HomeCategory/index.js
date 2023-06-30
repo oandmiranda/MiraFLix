@@ -1,5 +1,6 @@
 import Banner from "../../components/Banner";
 import Card from "../../components/Card";
+import Carousel from "../../components/Carousel/carousel";
 import Category, { categories, filterCategory } from "../../components/Category";
 import Container from "../../components/Container";
 import Footer from "../../components/Footer";
@@ -14,23 +15,33 @@ function HomeCategory() {
         <Container>
           <Input />
             <Category category={categories[0]}>
-            { filterCategory(0).map((video) => <Card id={video.id} key={video.id} /> )}
+              <Carousel >
+                { filterCategory(0).map((video) => <Card id={video.id} key={video.id} /> )}
+              </Carousel> 
             </Category>
 
             <Category category={categories[1]}>
-            { filterCategory(1).map((video) => <Card id={video.id} key={video.id} /> )}
+              <Carousel>
+               { filterCategory(1).map((video) => <Card id={video.id} key={video.id} /> )}
+               </Carousel>
             </Category>
 
             <Category category={categories[2]}>
-            { filterCategory(2).map((video) => <Card id={video.id} key={video.id} /> )}
+              <Carousel>
+                { filterCategory(2).map((video) => <Card id={video.id} key={video.id} /> )}
+              </Carousel>
             </Category>
 
             <Category category={categories[3]}>
-            { filterCategory(3).map((video) => <Card id={video.id} key={video.id} /> )}
+              <Carousel>
+                { filterCategory(3).map((video) => <Card id={video.id} key={video.id} /> )}
+              </Carousel>
             </Category>
 
             <Category category={categories[4]}>
-            { filterCategory(4).map((video) => <Card id={video.id} key={video.id} /> )}
+              <Carousel>
+               { filterCategory(4).map((video) => <Card id={video.id} key={video.id} /> )}
+              </Carousel>
             </Category>
         </Container>
         <Footer />
