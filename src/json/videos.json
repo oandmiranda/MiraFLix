@@ -1,10 +1,38 @@
 
 [
     {
-        "id": "HluMG9tJXHM",
-        "title": "Adão negro",
-        "cover": "https://i.ytimg.com/vi/HluMG9tJXHM/mqdefault.jpg",
-        "url": "https://youtu.be/HluMG9tJXHM",
+        "id": "jBUaAHxS9NQ",
+        "title": "Os Mercenários",
+        "cover": "https://i.ytimg.com/vi/jBUaAHxS9NQ/mqdefault.jpg",
+        "url": "https://youtu.be/jBUaAHxS9NQ",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "MhWb5fa1nGM",
+        "title": "Motoqueiro Fantasma",
+        "cover": "https://i.ytimg.com/vi/MhWb5fa1nGM/mqdefault.jpg",
+        "url": "https://youtu.be/MhWb5fa1nGM",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "a1w9x5U88jU",
+        "title": "VELOZES E FURIOSOS 10",
+        "cover": "https://i.ytimg.com/vi/a1w9x5U88jU/mqdefault.jpg",
+        "url": "https://youtu.be/a1w9x5U88jU",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "WPxu-1SVmAw",
+        "title": "Panamá",
+        "cover": "https://img.youtube.com/vi/WPxu-1SVmAw/mqdefault.jpg",
+        "url": "https://youtu.be/WPxu-1SVmAw",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "1scLvAMYRus",
+        "title": "O Assassino Perfeito",
+        "cover": "https://i.ytimg.com/vi/1scLvAMYRus/mqdefault.jpg",
+        "url": "https://youtu.be/1scLvAMYRus",
         "category": "AÇÃO"
     },
     {
@@ -19,13 +47,6 @@
         "title": "O Comando",
         "cover": "https://img.youtube.com/vi/YcuS7k9pKVk/mqdefault.jpg",
         "url": "https://youtu.be/YcuS7k9pKVk",
-        "category": "AÇÃO"
-    },
-    {
-        "id": "WPxu-1SVmAw",
-        "title": "Panamá",
-        "cover": "https://img.youtube.com/vi/WPxu-1SVmAw/mqdefault.jpg",
-        "url": "https://youtu.be/WPxu-1SVmAw",
         "category": "AÇÃO"
     },
     {
@@ -64,10 +85,59 @@
         "category": "AÇÃO"
     },
     {
-        "id": "1scLvAMYRus",
-        "title": "O Assassino Perfeito",
-        "cover": "https://i.ytimg.com/vi/1scLvAMYRus/mqdefault.jpg",
-        "url": "https://youtu.be/1scLvAMYRus",
+        "id": "BV5Gp3OEyaM",
+        "title": "Besouro Azul",
+        "cover": "https://i.ytimg.com/vi/BV5Gp3OEyaM/mqdefault.jpg",
+        "url": "https://youtu.be/BV5Gp3OEyaM",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "4dvYznqqqPo",
+        "title": "O Protetor",
+        "cover": "https://i.ytimg.com/vi/4dvYznqqqPo/mqdefault.jpg",
+        "url": "https://youtu.be/4dvYznqqqPo",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "c_qULPaBEtk",
+        "title": "Heróis de Guerra",
+        "cover": "https://i.ytimg.com/vi/c_qULPaBEtk/mqdefault.jpg",
+        "url": "https://youtu.be/c_qULPaBEtk",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "3vDQtWMOQA8",
+        "title": "AMBULÂNCIA: UM DIA DE CRIME",
+        "cover": "https://i.ytimg.com/vi/3vDQtWMOQA8/mqdefault.jpg",
+        "url": "https://youtu.be/3vDQtWMOQA8",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "GMmb63nsDIc",
+        "title": "Kraven - O Caçador",
+        "cover": "https://i.ytimg.com/vi/GMmb63nsDIc/mqdefault.jpg",
+        "url": "https://youtu.be/GMmb63nsDIc",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "QLiaZyO3wdM",
+        "title": "Rogue Warfare 2 - A Caçada",
+        "cover": "https://i.ytimg.com/vi/QLiaZyO3wdM/mqdefault.jpg",
+        "url": "https://youtu.be/QLiaZyO3wdM",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "E5SwV2Nttss",
+        "title": "Guerra Oculta",
+        "cover": "https://i.ytimg.com/vi/E5SwV2Nttss/mqdefault.jpg",
+        "url": "https://youtu.be/E5SwV2Nttss",
+        "category": "AÇÃO"
+    },
+    {
+        "id": "TkeL2hAV2J0",
+        "title": "O Caçador de Recompensa",
+        "cover": "https://i.ytimg.com/vi/TkeL2hAV2J0/mqdefault.jpg",
+        "url": "https://youtu.be/TkeL2hAV2J0",
         "category": "AÇÃO"
     },
     {
@@ -141,6 +211,27 @@
         "category": "COMÉDIA"
     },
     {
+        "id": "Aj2Bf5jDSYI",
+        "title": "Dune Part 2",
+        "cover": "https://i.ytimg.com/vi/Aj2Bf5jDSYI/mqdefault.jpg",
+        "url": "https://youtu.be/Aj2Bf5jDSYI",
+        "category": "FICÇÃO"
+    },
+    {
+        "id": "O1IQgDhJS9Y",
+        "title": "Harry Potter",
+        "cover": "https://i.ytimg.com/vi/O1IQgDhJS9Y/mqdefault.jpg",
+        "url": "https://youtu.be/O1IQgDhJS9Y",
+        "category": "FICÇÃO"
+    },
+    {
+        "id": "4A2QyE3KdQ8",
+        "title": "The Flash",
+        "cover": "https://i.ytimg.com/vi/4A2QyE3KdQ8/mqdefault.jpg",
+        "url": "https://youtu.be/4A2QyE3KdQ8",
+        "category": "FICÇÃO"
+    },
+    {
         "id": "sUgwJrirrdI",
         "title": "Invasão Secreta",
         "cover": "https://i.ytimg.com/vi/sUgwJrirrdI/mqdefault.jpg",
@@ -152,6 +243,13 @@
         "title": "As Marvels",
         "cover": "https://i.ytimg.com/vi/VPQnEPofNzI/mqdefault.jpg",
         "url": "https://youtu.be/VPQnEPofNzI",
+        "category": "FICÇÃO"
+    },
+    {
+        "id": "iZWeVQl2KpE",
+        "title": "Moana",
+        "cover": "https://i.ytimg.com/vi/iZWeVQl2KpE/mqdefault.jpg",
+        "url": "https://youtu.be/iZWeVQl2KpE",
         "category": "FICÇÃO"
     },
     {
@@ -197,6 +295,27 @@
         "category": "FICÇÃO"
     },
     {
+        "id": "KKyQgQD_pLI",
+        "title": "AVENGERS 5",
+        "cover": "https://i.ytimg.com/vi/KKyQgQD_pLI/mqdefault.jpg",
+        "url": "https://youtu.be/KKyQgQD_pLI",
+        "category": "FICÇÃO"
+    },
+    {
+        "id": "S55qvOKW5T0",
+        "title": "Morbius",
+        "cover": "https://i.ytimg.com/vi/S55qvOKW5T0/mqdefault.jpg",
+        "url": "https://youtu.be/S55qvOKW5T0",
+        "category": "FICÇÃO"
+    },
+    {
+        "id": "RO2M1SS0o68",
+        "title": "Herança",
+        "cover": "https://i.ytimg.com/vi/RO2M1SS0o68/mqdefault.jpg",
+        "url": "https://youtu.be/RO2M1SS0o68",
+        "category": "DRAMA"
+    },
+    {
         "id": "SerBQzD7o_c",
         "title": "O Sentido da Vida",
         "cover": "https://i.ytimg.com/vi/SerBQzD7o_c/mqdefault.jpg",
@@ -211,10 +330,24 @@
         "category": "DRAMA"
     },
     {
+        "id": "SPFjHV-R1QQ",
+        "title": "Graça e Coragem",
+        "cover": "https://i.ytimg.com/vi/SPFjHV-R1QQ/mqdefault.jpg",
+        "url": "https://youtu.be/SPFjHV-R1QQ",
+        "category": "DRAMA"
+    },
+    {
         "id": "EkOJWulrkO4",
         "title": "Minha Culpa",
         "cover": "https://i.ytimg.com/vi/EkOJWulrkO4/mqdefault.jpg",
         "url": "https://youtu.be/EkOJWulrkO4",
+        "category": "DRAMA"
+    },
+    {
+        "id": "nnIttRaYCoo",
+        "title": "O Amante da Rainha",
+        "cover": "https://i.ytimg.com/vi/nnIttRaYCoo/mqdefault.jpg",
+        "url": "https://youtu.be/nnIttRaYCoo",
         "category": "DRAMA"
     },
     {
@@ -295,10 +428,10 @@
         "category": "SÉRIES"
     },
     {
-        "id": "IRT6iKIqazI",
-        "title": "Silêncio ",
-        "cover": "https://i.ytimg.com/vi/IRT6iKIqazI/mqdefault.jpg",
-        "url": "https://youtu.be/IRT6iKIqazI",
+        "id": "8Ac64cjarL8",
+        "title": "SNOW",
+        "cover": "https://i.ytimg.com/vi/8Ac64cjarL8/mqdefault.jpg",
+        "url": "https://youtu.be/8Ac64cjarL8",
         "category": "SÉRIES"
     },
     {
@@ -313,6 +446,13 @@
         "title": "Neymar: O Caos Perfeito",
         "cover": "https://i.ytimg.com/vi/HSC6htNW9co/mqdefault.jpg",
         "url": "https://youtu.be/HSC6htNW9co",
+        "category": "SÉRIES"
+    },
+    {
+        "id": "q1Rca2kTwvU",
+        "title": "Sintonia",
+        "cover": "https://i.ytimg.com/vi/q1Rca2kTwvU/mqdefault.jpg",
+        "url": "https://youtu.be/q1Rca2kTwvU",
         "category": "SÉRIES"
     }
 ]

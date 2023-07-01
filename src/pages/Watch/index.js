@@ -18,7 +18,7 @@ if (!video) { return <NotFound /> }
             <Container>
                 <div className= {styles.watch}>
                 <iframe 
-                    width="854" 
+                    width="800" 
                     height="480" 
                     src={`https://www.youtube.com/embed/${video.id}`} 
                     title="YouTube video player" 
