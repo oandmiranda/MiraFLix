@@ -13,7 +13,7 @@
 }
 
 .card img:hover {
-    transform: scale(1.4);
+    transform: scale(2);
     border-radius: 12px;
     box-shadow: 0 0 10px #222;
     animation-delay: 5s;

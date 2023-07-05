@@ -4,6 +4,7 @@ import Watch from "./pages/Watch";
 import NotFound from "./pages/NotFound";
 import Search from "./pages/Search";
 import FavoritesContext from "./contexts/Favorites";
+import Readme from "./pages/Readme";
 
 const AppRoutes = () => {
     return (
@@ -14,6 +15,7 @@ const AppRoutes = () => {
                     <Route path= "/search-category" element= { <HomeCategory /> } ></Route>
                     <Route path= "/watch/:id" element= { <Watch /> } ></Route>
                     <Route path= "*" element= { <NotFound /> } ></Route>
+                    <Route path= "readme" element= { <Readme /> } ></Route>
                 </Routes>
         </BrowserRouter>
      </FavoritesContext>

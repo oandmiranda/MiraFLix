@@ -15,6 +15,7 @@ function Header() {
             <nav>
                 <Link to= "/">Home</Link>
                 <Link to= "/search-category">Categorias</Link>
+                <Link to= "/readme">Readme</Link>
             </nav>
         </header>
     );
