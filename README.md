@@ -1,6 +1,6 @@
 Primeiro projeto em React JS!
 
-MiraFlix
+MiraFlix:
 Este projeto tem o objetivo de praticar conceitos básicos do React e foi realizado com fins didáticos.
 
 Funcionalidades:
