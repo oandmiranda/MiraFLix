@@ -15,7 +15,7 @@ export default function ReadmeContainer() {
                 <p>
                     Esta aplicação tem o front inspirado no streaming e organiza os pseudo-filmes em duas páginas! Uma é a Home com todos os vídeos listados e a outra está dividida por categorias. Cada vídeo tem o seu próprio ID que é extraído de um JSON mocado!
                     Os itens são filtrados pelo ID e posteriormente mapeados para serem organizados em um container de categoria. <br />
-                    Cada categoria está organizada pela lib de carrossel que exibe os cards já filtrados e organizados. Após o clique no Card o usuário é encaminhado para uma página "/watch/id" com o vídeo linkado ao YouTube simulando o streaming.
+                    Cada categoria está organizada pela lib de carrossel que exibe os cards já filtrados. Após o clique no Card o usuário é encaminhado para uma página "/watch/id" com o vídeo linkado ao YouTube simulando o streaming.
                 </p>
             </div>
 
