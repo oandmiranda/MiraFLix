@@ -8,10 +8,10 @@ Esta aplicação tem o front inspirado no streaming de vídeo e organiza os pseu
 Cada categoria está organizada pela lib de carrossel que exibe os cards já filtrados. Após o clique no Card o usuário é encaminhado para uma página "/watch/id" com o vídeo linkado ao YouTube simulando o streaming.
 
 Tecnologias e Conceitos: </br>
-React: Aplicação feita a partir do "create react app".
-React Router Dom: Biblioteca utilizada para estabelecer as rotas entre as páginas Home, Categorias e Readme.
-React Slick: Biblioteca utilizada para aplicação do Carrossel.
-CSS Modules: Estilização via escopo local e exportação.
+React: Aplicação feita a partir do "create react app".</br>
+React Router Dom: Biblioteca utilizada para estabelecer as rotas entre as páginas Home, Categorias e Readme.</br>
+React Slick: Biblioteca utilizada para aplicação do Carrossel.</br>
+CSS Modules: Estilização via escopo local e exportação.</br>
 
 Futuras implementações: </br>
 Implementação da lógica para realização de busca dos filmes no Input de pesquisa.
