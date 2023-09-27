@@ -14,9 +14,9 @@ React Slick: Biblioteca utilizada para aplicação do Carrossel.</br>
 CSS Modules: Estilização via escopo local e exportação.</br>
 
 - Futuras implementações: </br>
-Implementação da lógica para realização de busca dos filmes no Input de pesquisa.
-Correção sutil no estado "hover" dos cards quando recebem zoom e correções de responsividade.
-Melhorias gerais na estilização.
+Implementação da lógica para realização de busca dos filmes no Input de pesquisa.</br>
+Correção sutil no estado "hover" dos cards quando recebem zoom e correções de responsividade.</br>
+Melhorias gerais na estilização.</br>
 
 - Status: </br>
 Em andamento.
