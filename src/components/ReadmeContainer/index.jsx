@@ -7,7 +7,7 @@ export default function ReadmeContainer() {
         <section className={styles.container}>
             <div className={styles.blocoh1}>
                 <h1>MiraFlix</h1>
-                <p>Este projeto tem o objetivo de praticar conceitos básicos do React e foi realizado para fins didáticos. A base do código está orientada a Props e Childrens.</p>
+                <p>Este projeto tem o objetivo de praticar conceitos básicos do React e foi realizado com fins didáticos.</p>
             </div>
 
             <div className={styles.bloco}>
